@@ -25,7 +25,6 @@ I'm in love with cybersecurity and programming.
 
 ###
 <h2 aling ="left"> I code with </h2>
-###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
