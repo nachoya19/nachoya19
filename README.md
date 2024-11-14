@@ -15,6 +15,7 @@ I'm in love with cybersecurity and programming.
 * ✉️ You can contact me at nachoya19 on Discord.
 * 🧠 I'm learning Multiplatform App Development, with Java, SQL, Kotlin, and Swift. My next step will be becoming a software engineer and specializing in cybersecurity.
 * ⚡ I love video games, sports, and anime.
+
 <div align="left">
   <a href="https://www.linkedin.com/in/ignacioob/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
